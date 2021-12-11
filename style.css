@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(to bottom, pink 10%, white 50%, blue 80%);
+}
+.container {
+  background: linear-gradient(to bottom, pink 10%, white 50%, blue 80%);
+}
+
+.icon {
+  position: relative;
+  margin: 5px;
+}
+
+.card-details {
+  margin: 5px;
+  padding: 5px;
+
+  background: linear-gradient(45deg, orange 20%, white 50%, green 70%);
+}
